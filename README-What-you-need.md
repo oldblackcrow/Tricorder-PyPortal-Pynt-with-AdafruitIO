@@ -14,4 +14,8 @@ Some kind of power switch. I used a basic Breadboard-friendly SPDT Slide Switch
 
 The code was supplied by Adafruit from their PyPortal UI example. With some help from the community, I integrated the Garmin LIDAR and AdafruitIO code. 
 
-Graphics are modifications of images and sounds found on https://memory-alpha.fandom.com
+Graphics are modifications of images found on https://memory-alpha.fandom.com
+
+Sounds were found on TrekCore.com https://www.trekcore.com/audio/
+
+For Internet connection using the Secrets file, you may want to use your smartphone's Hotspot for ultimate portability.
