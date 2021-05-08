@@ -2,7 +2,7 @@ Adafruit PyPortal Pynt - CircuitPython Powered Internet Display - 2.4" TFT
 
 PowerBoost 1000 Charger - Rechargeable 5V Lipo USB Boost @ 1A - 1000C
 
-3000mAh Lipo battery. You can probably get away with 3000mAh, but anything smaller may not last very long.
+3000mAh Lipo battery. You can probably get away with 2000mAh, but anything smaller may not last very long.
 
 Panel Mount Extension USB Cable Micro B Male to Micro B Female - I cut and stripped the wires for a better fit. Keep in mind that doing this only provides power, not data.
 
