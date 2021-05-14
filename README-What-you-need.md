@@ -12,7 +12,8 @@ Adafruit NeoPixel LED Strip with 3-pin JST PH Connector 60 LED/meter 0.5 Meter -
 
 Some kind of power switch. I used a basic Breadboard-friendly SPDT Slide Switch
 
-The code was supplied by Adafruit from their PyPortal UI example. With some help from the community, I integrated the Garmin LIDAR and AdafruitIO code. 
+The code was supplied by Adafruit from their PyPortal UI example. With some help from the community, I integrated the Garmin LIDAR and AdafruitIO code. A big thanks to Neradoc
+#2644 on Adafruit Discord for fixing my MQTT issues! 
 
 Graphics are modifications of images found on https://memory-alpha.fandom.com
 
