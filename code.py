@@ -1,3 +1,7 @@
+# This code is based on Adafruit's PyPortal User Interface code https://learn.adafruit.com/making-a-pyportal-user-interface-displayio/the-full-code
+# SPDX-FileCopyrightText: 2020 Richard Albritton for Adafruit Industries
+# SPDX-License-Identifier: MIT
+
 import time
 import board
 import microcontroller
